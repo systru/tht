@@ -1,110 +1,109 @@
-ambernicole -- #soph-titles
-godsandmonsters -- #soph-titles
-thebookofazrael -- #soph-titles
-thethroneofbrokengods -- #soph-titles
-throneofbrokengods -- #soph-titles
-thedawnofthecursedqueen -- #soph-titles
-dawnofthecursedqueen -- #soph-titles
-samkielanddianna -- #soph-titles
-rebeccazanetti -- #soph-titles
-onecursedrose -- #soph-titles
-gracereilly -- #soph-titles
-firstdown -- #soph-titles
-breakawaygracereilly -- #soph-titles
-stealinghome -- #soph-titles
-wickedserve -- #soph-titles
-erinacraig -- #soph-titles
-alandsowide -- #soph-titles
-houseofsaltandsorrows -- #soph-titles
-houseofrootsandruin -- #soph-titles
-juliafine -- #soph-titles
-maddalenaandthedark -- #soph-titles
-dianemariebrown -- #soph-titles
-blackcandlewomen -- #soph-titles
-evelynskye -- #soph-titles
-thehundredlovesofjuliet -- #soph-titles
-jccervantes -- #soph-titles
-theenchantedhacienda -- #soph-titles
-alexamartin -- #soph-titles
-betterthanfiction -- #soph-titles
-nextdoornemesis -- #soph-titles
-ingridseymour -- #soph-titles
-healerofkingdoms -- #soph-titles
-aprincesocruel -- #soph-titles
-acagesogilded -- #soph-titles
-acourtsodark -- #soph-titles
-boundandbarbed -- #target-list
-madeandmarred -- #target-list
-samanthagoode -- #target-list
-samanthargoode -- #target-list
-acurseofshadowsandthorns -- #target-list
-theeverking -- #target-list
-sararaasch -- #target-list
-emilymcintire -- #target-list
-crossed -- #target-list
-eternalbookstorm -- #headline-eternal-titles
-mazeyeddings -- #headline-eternal-titles
-abrushwithlove -- #headline-eternal-titles
-lizzieblakesbestmistake -- #headline-eternal-titles
-theplusone -- #headline-eternal-titles
-jillshalvis -- #headline-eternal-titles
-headlineeternal -- #headline-eternal-titles
-erinsterling -- #headline-eternal-titles
-theexhex -- #headline-eternal-titles
-thekisscurse -- #headline-eternal-titles
-sarahadams -- #headline-eternal-titles
-thecheatsheet -- #headline-eternal-titles
-wheninrome -- #headline-eternal-titles
-practicemakesperfect -- #headline-eternal-titles
-therulebook -- #headline-eternal-titles
-fromlukovwithlove -- #headline-eternal-titles
-whengraciemetthegrump -- #headline-eternal-titles
-thewallofwinnipegandme -- #headline-eternal-titles
-marianazapata -- #headline-eternal-titles
-monicamurphy -- #headline-eternal-titles
-rebeccayarros -- #competitors
-fourthwing -- #competitors
-ironflame -- #competitors
-carissabroadbent -- #competitors
-theserpentandthewingsofnight -- #competitors
-theashesandthestarcursedking -- #competitors
-thedeadromantics -- #competitors
-lylasage -- #competitors
-doneanddusted -- #competitors
-swiftandsaddled -- #competitors
-hannahbonamyoung -- #competitors
-outonalimb -- #competitors
-balkhabra -- #competitors
-collidebalkhabra -- #competitors
-ljandrews -- #competitors
-cncrawford -- #competitors
-frostandnectar -- #competitors
-acourtthiscruelandlovely -- #competitors
-staciastark -- #competitors
-briarboleyn -- #competitors
-queenofroses -- #competitors
-lylasage -- #competitors
-doneanddusted -- #competitors
-cowboyromance -- #competitors
-norasakavic -- #requests
-allforthegame -- #requests
-thefoxholecourt -- #requests
-theravenking -- #requests
-thekingsmen -- #requests
-cheonseonran -- #requests
-rachelhawkins -- #requests
-jessiegaynor -- #requests
-harperlwoods -- #requests
-kateweston -- #requests
-murderonaschoolnight -- #requests
-finlaydonovan -- #requests
-ellecosimano -- #requests
-maggiestiefvater -- #requests
-thelisteners -- #requests
-nytefall -- #requests
-chloecpenaranda -- #requests
-thestarsaredying -- #requests
-rinavasquez -- #requests
-acityofflames -- #requests
-rubyrana -- #requests
-snapshot -- #requests
+abrushwithlove
+acagesogilded
+acityofflames
+acourtsodark
+acourtthiscruelandlovely
+acurseofshadowsandthorns
+alandsowide
+alexamartin
+allforthegame
+ambernicole
+aprincesocruel
+aqsa
+balkhabra
+betterthanfiction
+blackcandlewomen
+boundandbarbed
+breakawaygracereilly
+briarboleyn
+carissabroadbent
+cheonseonran
+chloecpenaranda
+cncrawford
+collidebalkhabra
+cowboyromance
+crossed
+dawnofthecursedqueen
+dianemariebrown
+doneanddusted
+ellecosimano
+emilymcintire
+erinacraig
+erinsterling
+eternalbookstorm
+evelynskye
+finlaydonovan
+firstdown
+fourthwing
+fromlukovwithlove
+frostandnectar
+godsandmonsters
+gracereilly
+hannahbonamyoung
+harperlwoods
+headlineeternal
+healerofkingdoms
+houseofrootsandruin
+houseofsaltandsorrows
+ingridseymour
+ironflame
+jccervantes
+jessiegaynor
+jillshalvis
+juliafine
+kateweston
+lizzieblakesbestmistake
+ljandrews
+lylasage
+maddalenaandthedark
+madeandmarred
+maggiestiefvater
+marianazapata
+mazeyeddings
+monicamurphy
+murderonaschoolnight
+nextdoornemesis
+norasakavic
+nytefall
+onecursedrose
+outonalimb
+practicemakesperfect
+queenofroses
+rachelhawkins
+rebeccayarros
+rebeccazanetti
+rinavasquez
+rubyrana
+samanthagoode
+samanthargoode
+samkielanddianna
+sarahadams
+sararaasch
+snapshot
+staciastark
+stealinghome
+swiftandsaddled
+theashesandthestarcursedking
+thebookofazrael
+thecheatsheet
+thedawnofthecursedqueen
+thedeadromantics
+theenchantedhacienda
+theeverking
+theexhex
+thefoxholecourt
+thehundredlovesofjuliet
+thekingsmen
+thekisscurse
+thelisteners
+theplusone
+theravenking
+therulebook
+theserpentandthewingsofnight
+thestarsaredying
+thethroneofbrokengods
+thewallofwinnipegandme
+throneofbrokengods
+whengraciemetthegrump
+wheninrome
+wickedserve
